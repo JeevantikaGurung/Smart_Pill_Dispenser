@@ -1,4 +1,5 @@
-smart_pill_dispenser
+smart_pill_dispenser-
+
 The purpose of this project is to design and develop a mobile smart pill box to help individuals with autism, the elderly, and people with disabilities keep track of their medicine and manage their health. 
 This innovative solution will solve the problem of missed or incorrect doses of medicine, which can have serious consequences for these populations. 
 The design will be compact, user-friendly and easy to operate, making it accessible to people of all ages and abilities.
